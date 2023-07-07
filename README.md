@@ -1,4 +1,6 @@
 # COMP177 Web Server Project
 
-This project focuses on the development of a web server application. The server is designed to receive requests from clients and display the content of the received text request on the screen. To enhance its functionality, the server incorporates the use of argparse, allowing for command-line arguments to be provided, including the specification of the port number.
+This project focuses to develop a client-side messaging system that enables users to communicate with each other through a server.
+
+Upon running the program, the client establishes a connection with the server. The initial exchange involves a greeting message from the client and a corresponding response from the server. The client is then prompted to provide a username and password for authentication. The credentials are sent to the server for validation, ensuring that only authorized users can access the messaging system.
 
