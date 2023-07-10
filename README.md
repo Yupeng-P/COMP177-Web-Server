@@ -1,4 +1,4 @@
-# COMP177 Basic Messaging Client Project
+# Messaging Client Project
 
 This project focuses to develop a client-side messaging system that enables users to communicate with each other through a server.
 
